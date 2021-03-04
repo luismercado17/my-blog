@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "title": "titulo blog 1",
+            "main_image": "https://cde.laprensa.e3.pe/ima/0/0/2/3/8/238082.jpg",
+            "text": "Lorem ipsum.................."
+        },
+        {
+            "title": "titulo blog 2",
+            "main_image": "https://cde.laprensa.e3.pe/ima/0/0/2/3/8/238082.jpg",
+            "text": "Lorem ipsum.................."
+        },
+        {
+            "title": "titulo blog 3",
+            "main_image": "https://cde.laprensa.e3.pe/ima/0/0/2/3/8/238082.jpg",
+            "text": "Lorem ipsum.................."
+        }, 
+        {
+            "title": "titulo blog 4",
+            "main_image": "https://cde.laprensa.e3.pe/ima/0/0/2/3/8/238082.jpg",
+            "text": "Lorem ipsum.................."
+        }      
+    ]
+}
